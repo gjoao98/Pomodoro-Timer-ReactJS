@@ -12,7 +12,6 @@ export function Home() {
                     <datalist id="task-suggestions">
                         <option value="Projeto teste Lucas" />
                         <option value="Projeto estudo Rocketseat" />
-                        <option value="Projeto Nexteer" />
                     </datalist>
 
 
